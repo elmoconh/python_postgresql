@@ -10,6 +10,7 @@ Permite la creación básica y elimincación de un conjunto de tablas ingresados
 2-Intalar las liberias por medio del comando: 
 - pip install -r requirements.txt
 3-crear variable de entorno DB_URL con url de bd a conectar
+-
 4-Ejecutar script de su interés por medio de la consola junto a los argumentos!!!
 - Ejemplo
 - python CREATE_TABLE.py tabla1 tabla2
